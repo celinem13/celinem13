@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @celinem13
 - 👀 I’m interested in AI, machine learning, game development, and dogs.
-- 🌱 I’m currently learning computer science as an undergrad at Cal Poly Pomona.
+- 🌱 I graduated from Cal Poly Pomona with a Bachelor's in Computer Science and a Minor in Data Science.
 - 💞️ I’m looking to collaborate on any beginner's projects to better understand AI and machine learning.
 - 📫 How to reach me: email me at celinemangahas13@gmail.com
 
